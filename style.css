@@ -1,0 +1,16 @@
+.titulo{ font-size: 200% ; font-family: Arial; font-weight:bold ;text-align: right; color: rgba(80, 16, 199, 0.808) ; letter-spacing: 15px;}
+
+.subtitulo { background-color: rgb(106, 119, 106); color: white;}
+
+.p1 { font-family: Arial; font-size: 70%; text-align: center}
+.p2 { font-family: Arial; text-align: justify}
+
+span.blue {color: blue;}
+span.bold {font-weight: bold; font-family: Arial; font-style: italic;}
+.center {text-align: center; }
+
+img.izquierda {float: left; width:180px; height:220px}
+
+img.derecha {float: right; width:180px; height:220px}
+
+.p3 { clear: both;}
